@@ -1,5 +1,7 @@
 # Boltons
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/boltons.svg)](https://www.guardrails.io)
+
 *boltons should be builtins.*
 
 <a href="https://boltons.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat"></a>
